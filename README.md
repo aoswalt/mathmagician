@@ -6,7 +6,7 @@ Run `python mathmagician.py` to begin the program.
 
 
 Example output:
-```
+```sh
 Choose an option:
 1. Print Integers
 2. Print Fibonacci
